@@ -1,0 +1,1 @@
+snprintf.lo: snprintf.c

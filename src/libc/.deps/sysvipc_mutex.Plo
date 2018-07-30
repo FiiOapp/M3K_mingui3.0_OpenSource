@@ -1,0 +1,1 @@
+sysvipc_mutex.lo: sysvipc_mutex.c

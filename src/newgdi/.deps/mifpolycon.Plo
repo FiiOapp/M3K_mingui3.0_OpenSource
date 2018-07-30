@@ -1,0 +1,230 @@
+mifpolycon.lo: mifpolycon.c \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdio.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/features.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdc-predef.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/predefs.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sgidefs.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs-o32.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/types.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/libio.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/_G_config.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/wchar.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdarg.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio_lim.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sys_errlist.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdlib.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitflags.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitstatus.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/endian.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/endian.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap-16.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/xlocale.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/types.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/time.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/select.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/select.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sigset.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/time.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/sysmacros.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/pthreadtypes.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/alloca.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/string.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/limits.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/syslimits.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/limits.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix1_lim.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/local_lim.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/limits.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix2_lim.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/xopen_lim.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/math.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_val.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_valf.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_vall.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/inf.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/nan.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/mathdef.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/mathcalls.h \
+ /home/zeke/project/my_project/minigui-64bit/include/common.h \
+ /home/zeke/project/my_project/minigui-64bit/include/../mgconfig.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/pthread.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sched.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sched.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/timex.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/setjmp.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/semaphore.h \
+ /home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/semaphore.h \
+ /home/zeke/project/my_project/minigui-64bit/include/minigui.h \
+ /home/zeke/project/my_project/minigui-64bit/include/gdi.h \
+ /home/zeke/project/my_project/minigui-64bit/include/endianrw.h \
+ /home/zeke/project/my_project/minigui-64bit/include/window.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/cliprect.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/gal.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/newgal.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/internals.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/zorder.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/ctrlclass.h \
+ /home/zeke/project/my_project/minigui-64bit/src/include/dc.h pixel_ops.h \
+ mi.h mistruct.h mifpoly.h mifillarc.h midc.h
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdio.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/features.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdc-predef.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/predefs.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/cdefs.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wordsize.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sgidefs.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs-o32.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/types.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/typesizes.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/libio.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/_G_config.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/wchar.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdarg.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio_lim.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sys_errlist.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdlib.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitflags.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitstatus.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/endian.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/endian.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap-16.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/xlocale.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/types.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/time.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/select.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/select.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sigset.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/time.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/sysmacros.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/pthreadtypes.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/alloca.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/string.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/limits.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/syslimits.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/limits.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix1_lim.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/local_lim.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/limits.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix2_lim.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/xopen_lim.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/math.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_val.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_valf.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/huge_vall.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/inf.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/nan.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/mathdef.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/mathcalls.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/common.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/../mgconfig.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/pthread.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sched.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sched.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/timex.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/setjmp.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/semaphore.h:
+
+/home/zeke/bin/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/semaphore.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/minigui.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/gdi.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/endianrw.h:
+
+/home/zeke/project/my_project/minigui-64bit/include/window.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/cliprect.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/gal.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/newgal.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/internals.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/zorder.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/ctrlclass.h:
+
+/home/zeke/project/my_project/minigui-64bit/src/include/dc.h:
+
+pixel_ops.h:
+
+mi.h:
+
+mistruct.h:
+
+mifpoly.h:
+
+mifillarc.h:
+
+midc.h:

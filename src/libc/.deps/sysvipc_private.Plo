@@ -1,0 +1,1 @@
+sysvipc_private.lo: sysvipc_private.c

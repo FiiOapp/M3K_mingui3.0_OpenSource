@@ -1,0 +1,1 @@
+threadx_pthread.lo: threadx_pthread.c

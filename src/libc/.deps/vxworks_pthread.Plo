@@ -1,0 +1,1 @@
+vxworks_pthread.lo: vxworks_pthread.c

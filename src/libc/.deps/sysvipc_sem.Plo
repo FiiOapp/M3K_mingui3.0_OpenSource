@@ -1,0 +1,1 @@
+sysvipc_sem.lo: sysvipc_sem.c

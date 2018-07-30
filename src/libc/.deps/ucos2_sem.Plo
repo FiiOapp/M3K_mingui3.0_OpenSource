@@ -1,0 +1,1 @@
+ucos2_sem.lo: ucos2_sem.c

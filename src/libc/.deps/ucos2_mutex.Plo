@@ -1,0 +1,1 @@
+ucos2_mutex.lo: ucos2_mutex.c

@@ -1,0 +1,3 @@
+mgsock.lo: mgsock.c ../../mgconfig.h
+
+../../mgconfig.h:

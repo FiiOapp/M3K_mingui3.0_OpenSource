@@ -1,0 +1,3 @@
+winial.lo: winial.c ../../mgconfig.h
+
+../../mgconfig.h:

@@ -1,0 +1,12 @@
+prefix=/home/zeke/mips-install/minigui_n
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: MiniGUI
+Description: A windowing system for embedded system.
+Version: 3.0.12
+Requires:
+Libs: -L${libdir} -lminigui_ths  -ldl -lm -lpthread
+Libs.private:
+Cflags: -I${includedir} 
